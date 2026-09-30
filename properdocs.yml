@@ -1,0 +1,5 @@
+site_name: My Docs
+
+nav:
+  - Welcome: index.md
+  - Proyecto 01: proyecto01.md
